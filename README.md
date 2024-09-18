@@ -1,8 +1,12 @@
-# React + Vite
+# Belajar Membuat Aplikasi Web dengan React
+Ini adalah aplikasi web yang dibuat menggunakan React. Proyek ini bertujuan untuk memenuhi tugas akhir course Belajar Membuat Aplikasi Web dengan React.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Fitur Utama
+- Menambahkan Catatan: Pengguna dapat menambahkan catatan dengan judul dan isi.
+- Mencari Catatan: Fitur pencarian memungkinkan pengguna menemukan catatan tertentu berdasarkan judul.
+- Mengarsipkan dan Menghapus Catatan: Catatan dapat diarsipkan atau dihapus dengan mudah.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Teknologi yang Digunakan
+- React: Library JavaScript untuk membangun antarmuka pengguna.
+- React Icons: Menyediakan ikon SVG yang dapat diintegrasikan dengan komponen React.
+- CSS (Tailwind CSS): Untuk styling.
